@@ -4,7 +4,7 @@
 
 <p align="center">
     <img alt="awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" />
-  <a href="https://travis-ci.org/nexuspcs/epic-ios"><img alt="Build Status" src="https://api.travis-ci.org/nexuspcs/epic-ios.svg?branch=master" /></a>
+  <a href="https://travis-ci.org/nexuspcs/Epic-iOS"><img alt="Build Status" src="https://api.travis-ci.org/nexuspcs/epic-ios.svg?branch=master" /></a>
   <a href="https://ko-fi.com/M4M3WPRD"><img width="110" alt="Buy Me a Coffee" src="buy_me_a_coffee.png" /></a>
 </p>
 
